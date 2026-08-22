@@ -1,17 +1,98 @@
-# 💫 About Me:
-## 👋 Hi, I'm Alan<br><br>## 🚀 I'm currently working on<br>📱 Leading mobile and backend development with Flutter, .NET 8, and ClickHouse for large-scale data and field-ops platforms.<br><br>## 🤝 I'm looking to collaborate on<br>🧠 Backend systems, data engineering projects, mobile apps, or products that mix hardware, data, and real-time analytics.<br><br>## 🆘 I'm looking for help with<br>⚙️ Advanced ClickHouse scaling strategies, distributed ingestion patterns, and cloud cost optimization.<br><br>## 📚 I'm currently learning<br>🌱 Kotlin Multiplatform, deeper AWS infrastructure, and advanced system design for high-throughput platforms.<br><br>## 💬 Ask me about<br>💡 Flutter Clean Architecture, BLoC, .NET APIs, ClickHouse data warehouses, RFID systems, or offline-first mobile apps.<br><br>## ⚡ Fun fact<br>🐕 I build billion-row data systems by day and still find time to run with my high-energy dog.<br>
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# Alan Pérez
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlanPerez001&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AlanPerez001&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanPerez001&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&lines=%3E+building+software+%26+AI;%3E+building+startup+ideas;%3E+shipping+real+products"
+  alt="Typing SVG"
+/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
+<a href="https://www.dotycode.com/">
+  <img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=firefox&logoColor=00D9FF" />
+</a>
 
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" />
+</a>
 
+<a href="https://github.com/AlanPerez001">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D9FF" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ClickHouse-0D1117?style=flat-square&logo=clickhouse&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00D9FF" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00D9FF" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=flat-square&logo=ollama&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logo=databricks&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=anthropic&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=flat-square&logo=openai&logoColor=00D9FF" />
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=AlanPerez001&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280"
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://raw.githubusercontent.com/AlanPerez001/AlanPerez001/output/contribution-grid.svg"
+  alt="Contribution grid"
+  width="100%"
+/>
+
+</div>
+
+<br/>
+
+## About
+
+I build software that connects **mobile apps, backend systems, data infrastructure and AI**.
+
+Currently focused on:
+
+- enterprise AI and local LLM infrastructure;
+- RAG, agents, MCP and tool calling;
+- Flutter applications with offline-first architectures;
+- .NET APIs and distributed backend systems;
+- ClickHouse and high-volume data platforms;
+- automation that connects real business systems.
+
+<br/>
+
+## Random Dev Quote
+
+<div align="center">
+
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+/>
+
+</div>
