@@ -21,6 +21,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # IMPORTANT:
+      # Generate streak BEFORE Platane/snk.
+      # snk runs inside Docker and can leave dist/ owned by root.
+      - name: Generate streak SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: |
+          mkdir -p dist
+          python3 scripts/generate_streak.py
+
       - name: Generate animated contribution snake
         uses: Platane/snk@v3
         with:
@@ -29,17 +40,11 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#00D9FF
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00D9FF&color_dots=#161B22,#0a4a5c,#0d7a99,#00b8d9,#00D9FF
 
-      - name: Generate streak SVG
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-        run: |
-          python3 scripts/generate_streak.py
-
       - name: Check generated files
         run: |
           echo "Generated files:"
           ls -lah dist
+
           test -f dist/streak.svg
           test -f dist/github-contribution-grid-snake.svg
           test -f dist/github-contribution-grid-snake-dark.svg
