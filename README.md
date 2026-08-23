@@ -88,24 +88,29 @@
 
 </div>
 <br/><br/>
-
 <img
-  src="https://streak-stats.demolab.com?user=AlanPerez001&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280"
-  alt="GitHub Streak"
+  src="https://raw.githubusercontent.com/AlanPerez001/AlanPerez001/output/streak.svg"
+  alt="GitHub contribution streak"
+  width="720"
 />
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlanPerez001/AlanPerez001/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlanPerez001/AlanPerez001/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlanPerez001/AlanPerez001/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AlanPerez001/AlanPerez001/output/github-contribution-grid-snake.svg"
+  />
   <img
     alt="Animated GitHub contribution snake"
     src="https://raw.githubusercontent.com/AlanPerez001/AlanPerez001/output/github-contribution-grid-snake-dark.svg"
     width="100%"
   />
 </picture>
-
 </div>
 
 <br/>
