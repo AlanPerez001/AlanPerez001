@@ -1,0 +1,154 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="720"
+  height="195"
+  viewBox="0 0 720 195"
+  role="img"
+  aria-label="GitHub contribution streak"
+>
+  <style>
+    .background {
+      fill: #0D1117;
+    }
+
+    .border {
+      fill: none;
+      stroke: #30363D;
+      stroke-width: 1;
+    }
+
+    .divider {
+      stroke: #30363D;
+      stroke-width: 1;
+    }
+
+    .value {
+      fill: #C9D1D9;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 30px;
+      font-weight: 600;
+    }
+
+    .accent {
+      fill: #00D9FF;
+    }
+
+    .label {
+      fill: #00D9FF;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    .date {
+      fill: #8B949E;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 11px;
+    }
+  </style>
+
+  <rect
+    class="background"
+    x="0.5"
+    y="0.5"
+    width="719"
+    height="194"
+    rx="8"
+  />
+
+  <rect
+    class="border"
+    x="0.5"
+    y="0.5"
+    width="719"
+    height="194"
+    rx="8"
+  />
+
+  <line class="divider" x1="240" y1="38" x2="240" y2="157"/>
+  <line class="divider" x1="480" y1="38" x2="480" y2="157"/>
+
+  <!-- Total Contributions -->
+  <text
+    class="value"
+    x="120"
+    y="87"
+    text-anchor="middle"
+  >
+    1,192
+  </text>
+
+  <text
+    class="label"
+    x="120"
+    y="116"
+    text-anchor="middle"
+  >
+    Total Contributions
+  </text>
+
+  <text
+    class="date"
+    x="120"
+    y="139"
+    text-anchor="middle"
+  >
+    Last 365 days
+  </text>
+
+  <!-- Current Streak -->
+  <text
+    class="value accent"
+    x="360"
+    y="87"
+    text-anchor="middle"
+  >
+    21
+  </text>
+
+  <text
+    class="label"
+    x="360"
+    y="116"
+    text-anchor="middle"
+  >
+    Current Streak
+  </text>
+
+  <text
+    class="date"
+    x="360"
+    y="139"
+    text-anchor="middle"
+  >
+    Aug 17, 2026 → Sep 06, 2026
+  </text>
+
+  <!-- Longest Streak -->
+  <text
+    class="value"
+    x="600"
+    y="87"
+    text-anchor="middle"
+  >
+    21
+  </text>
+
+  <text
+    class="label"
+    x="600"
+    y="116"
+    text-anchor="middle"
+  >
+    Longest Streak
+  </text>
+
+  <text
+    class="date"
+    x="600"
+    y="139"
+    text-anchor="middle"
+  >
+    Aug 17, 2026 → Sep 06, 2026
+  </text>
+</svg>
